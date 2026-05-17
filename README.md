@@ -6,7 +6,7 @@ Demo landing page for **Karo Pitch** by **KaroStartup**.
 Design a modern, clean, investor-focused homepage that explains Karo Pitch and encourages early-stage founders across Bharat to apply.
 
 ## Live Demo
-- Website Link: [https://bhikhukarmur03.github.io/karo-pitch-landing-page/]
+- Website Link: https://bhikhukarmur03.github.io/karo-pitch-landing-page/
 - Homepage Screenshot: `homepage-full.png`
 
 ## Assignment Requirements Covered
@@ -54,5 +54,5 @@ Design a modern, clean, investor-focused homepage that explains Karo Pitch and e
 This is a demo prototype created for the Karo Pitch intern assignment.
 
 ## Author
-- Name: [Bhikhu Karmur]
-- Email: [bhikhubhai057@gmail.com]
+- Name: Bhikhu Karmur
+- Email: bhikhubhai057@gmail.com
